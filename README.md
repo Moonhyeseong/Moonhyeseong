@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Moon Hye Seong! 👋
 
 I'm a passionate Frontend Developer with experience in building dynamic and responsive web applications. Here is a bit about my tech stack and what I love to work with:
 
