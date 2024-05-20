@@ -1,18 +1,14 @@
-### Hi there 👋
-안녕하세요 프론트엔드 개발자 문혜성 입니다.
+# Hi there, I'm [Your Name]! 👋
 
+I'm a passionate Frontend Developer with experience in building dynamic and responsive web applications. Here is a bit about my tech stack and what I love to work with:
 
-<!--
-**Moonhyeseong/Moonhyeseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Redux Toolkit, react-query
+- **Databases:** Supabase
+- **Styling:** Tailwind CSS
+- **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile
+
