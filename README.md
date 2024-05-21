@@ -5,10 +5,9 @@ I'm a passionate Frontend Developer with experience in building dynamic and resp
 ## 🛠️ My Tech Stack
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js, Redux Toolkit, react-query
-- **Databases:** Supabase
-- **Styling:** Tailwind CSS
-- **Tools:** Git
+- **Frameworks/Libraries:** React, Next.js, Redux Toolkit, react-query, Supabase, chart.js
+- **Styling:** Tailwind CSS, styled-components
+- **Tools:** Git, Slack, Notion
 
 Thanks for visiting my profile
 
