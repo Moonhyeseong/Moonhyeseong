@@ -16,13 +16,9 @@
 
 <div align='center'>
     <h4>Knowledgeable. POC 혹은 데모 프로젝트에서 사용하여 기본적인 개념과 활용법을 익힌 기술</h4>
-    React-Native / Expo(SDK 50+) / Nest.js / socket.io / mongoDB / PostgreSQL / Svelte / 
-    SvelteKit / Firebase / Python / OpenCV / TensorFlow / Docker
+    React-Native / Expo(SDK 50+) / Nest.js / PostgreSQL / Svelte / 
+    SvelteKit / Firebase / Python / 
 </div>
 
-<br/>
 
-<div align='center'>
-    <h4>Tools. 업무에 활용한 경험이 있는 협업 도구</h4>
-    FIgma / Swagger / Postman / Github / Gitlab / Notion
-</div>
+
